@@ -1,0 +1,10 @@
+D:\workspace\msqdk\DJ\bin\Debug\netcoreapp2.1\DJ.deps.json
+D:\workspace\msqdk\DJ\bin\Debug\netcoreapp2.1\DJ.runtimeconfig.json
+D:\workspace\msqdk\DJ\bin\Debug\netcoreapp2.1\DJ.runtimeconfig.dev.json
+D:\workspace\msqdk\DJ\bin\Debug\netcoreapp2.1\DJ.dll
+D:\workspace\msqdk\DJ\bin\Debug\netcoreapp2.1\DJ.pdb
+D:\workspace\msqdk\DJ\obj\Debug\netcoreapp2.1\DJ.csprojAssemblyReference.cache
+D:\workspace\msqdk\DJ\obj\Debug\netcoreapp2.1\DJ.AssemblyInfoInputs.cache
+D:\workspace\msqdk\DJ\obj\Debug\netcoreapp2.1\DJ.AssemblyInfo.cs
+D:\workspace\msqdk\DJ\obj\Debug\netcoreapp2.1\DJ.dll
+D:\workspace\msqdk\DJ\obj\Debug\netcoreapp2.1\DJ.pdb
